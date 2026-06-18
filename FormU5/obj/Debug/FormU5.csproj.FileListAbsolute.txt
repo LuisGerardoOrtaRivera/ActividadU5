@@ -1,0 +1,10 @@
+C:\Users\TheWichol45\source\repos\FormU5\FormU5\bin\Debug\FormU5.exe.config
+C:\Users\TheWichol45\source\repos\FormU5\FormU5\bin\Debug\FormU5.exe
+C:\Users\TheWichol45\source\repos\FormU5\FormU5\bin\Debug\FormU5.pdb
+C:\Users\TheWichol45\source\repos\FormU5\FormU5\obj\Debug\FormU5.csproj.AssemblyReference.cache
+C:\Users\TheWichol45\source\repos\FormU5\FormU5\obj\Debug\FormU5.Form1.resources
+C:\Users\TheWichol45\source\repos\FormU5\FormU5\obj\Debug\FormU5.Properties.Resources.resources
+C:\Users\TheWichol45\source\repos\FormU5\FormU5\obj\Debug\FormU5.csproj.GenerateResource.cache
+C:\Users\TheWichol45\source\repos\FormU5\FormU5\obj\Debug\FormU5.csproj.CoreCompileInputs.cache
+C:\Users\TheWichol45\source\repos\FormU5\FormU5\obj\Debug\FormU5.exe
+C:\Users\TheWichol45\source\repos\FormU5\FormU5\obj\Debug\FormU5.pdb
